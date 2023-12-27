@@ -151,6 +151,9 @@ docker run --rm -v $path_to_data:/data -t broadinstitute/gtex_rnaseq:V10 \
 ```
 
 <!-- Author: Francois Aguet -->
+
+<br>
+
 # eQTL discovery pipeline for the [GTEx Consortium](www.gtexportal.org)
 
 This repository contains all components of the eQTL discovery pipeline used by the GTEx Consortium, including data normalization, QTL mapping, and annotation steps. This document describes the pipeline used for the V7 and V8 data releases; for settings specific to the V6p analyses presented in [[GTEx Consortium, 2017](https://www.nature.com/articles/nature24277)], please see the last section.
