@@ -15,6 +15,7 @@ Pipeline components are available as docker images, and execution scripts are pr
 
 A detailed description of the RNA-seq pipeline settings used for TOPMed is provided in [TOPMed_RNAseq_pipeline.md](https://github.com/broadinstitute/gtex-pipeline/blob/master/TOPMed_RNAseq_pipeline.md).
 
+<br>
 
 # RNA-seq pipeline for the [GTEx Consortium](www.gtexportal.org)
 
