@@ -1,4 +1,4 @@
-**Note; This is the pipeline for gtex data generate [mumdark]**
+**Note: This is the pipeline for gtex data generate [mumdark]**
 
 <br>
 
